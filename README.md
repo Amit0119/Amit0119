@@ -1,7 +1,7 @@
 # Hi there, I'm Amit Maurya 👋
 
 ### 👨‍💻 About Me
-* 🎓 I'm currently in my 2nd year of B.Tech (CSE) at Dr. A.P.J. Abdul Kalam Technical University (AKTU).
+* 🎓 I'm currently in my 3rd year of B.Tech (CSE) at Dr. A.P.J. Abdul Kalam Technical University (AKTU).
 * 🚀 I'm passionate about cross-platform app development and full-stack web technologies.
 * 🌱 Currently diving deep into backend databases (Firebase) and real-time application development.
 * 👯 Always eager to collaborate on team projects and hackathons!
