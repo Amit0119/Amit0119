@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Amit Maurya 👋
 
-<!--
-**Amit0119/Amit0119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+* 🎓 I'm currently in my 2nd year of B.Tech (CSE) at Dr. A.P.J. Abdul Kalam Technical University (AKTU).
+* 🚀 I'm passionate about cross-platform app development and full-stack web technologies.
+* 🌱 Currently diving deep into backend databases (Firebase) and real-time application development.
+* 👯 Always eager to collaborate on team projects and hackathons!
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+* **Mobile Development:** Flutter, Dart
+* **Web & Backend:** HTML/CSS, Flask, Firebase
+* **Languages:** C, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+* **Fitstreak:** A fitness tracking application featuring user authentication and activity logging.
+* **GestureSpeak:** A full-stack real-time communication platform built for the AI Innovation Hackathon.
+* **Library Management System:** A structured management system utilizing C programming structures with a web frontend.
+
+### 📫 Connect with me
+* LinkedIn: [Amit Maurya](https://www.linkedin.com/in/amit-maurya-b72a5a328/)
