@@ -4,7 +4,7 @@
 * 🎓 B.Tech (CSE) 3rd-year (5th Sem) student at Dr. A.P.J. Abdul Kalam Technical University (AKTU).
 * 🚀 Full-stack engineer & AI builder passionate about architecting scalable applications and agentic AI systems.
 * 💼 Currently focused on self-directed Agentic AI & AWS Development, orchestrating multi-agent workflows (CrewAI, LangGraph) and RAG pipelines.
-* 🌱 Always building! Moving from problem statement to shipped prototype across Python, Java, Flutter, and AWS.
+* 🌱 Always building! Moving from problem statement to shipped prototype across Python, Flutter, and AWS.
 
 ### 🛠️ Tech Stack & Tools
 * **AI & Automation:** CrewAI, LangChain, LangGraph, LLMs, RAG, FAISS, MediaPipe, TF Lite
