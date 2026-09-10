@@ -9,7 +9,7 @@
 ### 🛠️ Tech Stack & Tools
 * **AI & Automation:** CrewAI, LangChain, LangGraph, LLMs, RAG, FAISS, MediaPipe, TF Lite
 * **Backend & Cloud:** FastAPI, Flask, AWS (S3, Lambda, EC2), Firebase
-* **Frontend & Mobile:** Flutter, HTML/CSS, JavaScript
+* **Frontend & Mobile:**  HTML/CSS, JavaScript
 * **Languages:** Python, C
 
 ### 🚀 Featured Projects
